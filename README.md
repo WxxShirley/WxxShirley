@@ -1,7 +1,7 @@
 ## About Me
 🎓 A junior student major in CS@Fudan
 
-👩‍💻 Currently SWE intern@outlook
+👩‍💻 Currently SWE intern@Microsoft-outlook
 
 
 ## Interests
