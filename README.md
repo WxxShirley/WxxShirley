@@ -8,3 +8,4 @@ My name is Xixi,a junior student major in CS@Fudan.
 
 🌈 Interested in **Full stack developement** and **Data mining**.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WxxShirley&hide_langs_below=1)](https://github.com/WxxShirley)
