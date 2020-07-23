@@ -1,5 +1,7 @@
 ### Hi there👋
 
+[![Xixi's github stats](https://github-readme-stats.vercel.app/api?username=WxxShirley)](https://github.com/anuraghazra/github-readme-stats)
+
 My name is Xixi,a junior student major in CS@Fudan.
 
 👩‍💻 Currently SWE intern@Microsoft-outlook
