@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=WxxShirley&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/WxxShirley">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WxxShirley&hide_langs_below=1" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WxxShirley&hide_langs_below=1&theme=dracula" />
 </a>
 
 
