@@ -27,3 +27,4 @@ My name is Xixi,a junior student major in CS@Fudan.
 8.3-8.9 | iOS审核通过,推送文案 | 之前报送审核显示有crash log,还没解决
 之后每一周 | 周末根据用户反馈结果维护代码/修改数据收集的部分 | 根据实际情况调整
 
+
