@@ -16,15 +16,4 @@ My name is Xixi,a junior student major in CS@Fudan.
 🌈 Interested in **Full stack developement** and **Data mining**.
 
 
-### TimeLine
-> 时间安排:
->  这一周有公司hackthon和自己的出行，基本上没有其他的时间，工作需要下周开始
-
->  时间分配上，工作日主要在实习和刷题，周末有1天时间可以来做
-
-时间|任务|备注
--|-|-
-8.3-8.9 | iOS审核通过,推送文案 | 之前报送审核显示有crash log,还没解决
-之后每一周 | 周末根据用户反馈结果维护代码/修改数据收集的部分 | 根据实际情况调整
-
 
