@@ -19,6 +19,7 @@ My name is Xixi,a junior student major in CS@Fudan.
 ### TimeLine
 > 时间安排:
 >  这一周有公司hackthon和自己的出行，基本上没有其他的时间，工作需要下周开始
+
 >  时间分配上，工作日主要在实习和刷题，周末有1天时间可以来做
 
 时间|任务|备注
