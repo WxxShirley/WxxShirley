@@ -5,9 +5,8 @@
 
 
 
-##
 
-My name is Xixi,a junior student major in CS@Fudan.
+My name is Xixi,a senior student major in CS@Fudan.
 
 
 🌈 Interested in **Full stack developement** and **Data mining**.
