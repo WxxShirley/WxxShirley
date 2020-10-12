@@ -6,7 +6,7 @@
 ## 
 
 
-👋 My name is Xixi,a senior student@Fudan, previous SWE intern@Microsoft.
+👋 My name is Xixi,a senior student@Fudan, previous SWE intern@Microsoft, current SWE intern@bilibili
 
 
 🌈 Interested in **Full stack developement** and **Data mining**.
