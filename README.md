@@ -6,10 +6,8 @@
 ## 
 
 
-👋 My name is Xixi,a senior student@Fudan
+👋 Xixi Wu, currently a senior student@Fudan, incoming master student@Fudan
 
 
-🌈 Interested in **Full stack developement** and **Data mining**.
+🌈 Interested in **Graph Data mining**, experienced in **Full-stack Development**
 
-
-📮 Contact me: Weibo:[二二二二C](https://weibo.com/6338550883/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
