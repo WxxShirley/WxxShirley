@@ -6,8 +6,7 @@
 ## 
 
 
-👋 Xixi Wu, currently a senior student@Fudan, incoming master student@Fudan
+👋 Xixi Wu, currently a first-year master student@Fudan
 
 
-🌈 Interested in **Graph Data mining**, experienced in **Full-stack Development**
-
+🌱 Interested in **Graph Data mining**
