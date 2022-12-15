@@ -3,10 +3,15 @@
 </a>
 
 
+
 ## 
 
 
-👋 Xixi Wu, currently a first-year master student@Fudan
+👋 Xixi Wu, currently a second-year master student@Fudan
 
 
 🌱 Interested in **Graph Data mining**
+
+
+🌟 ![](https://komarev.com/ghpvc/?username=WxxShirley&color=ff69b4&style=flat-square)
+
