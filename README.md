@@ -5,7 +5,7 @@ Master student @ Fudan University
 
 ### News 
 
-***[Aug 2023]***  Two papers accpeted by **CIKM23** as Long Paper, **[DiRec](https://github.com/WxxShirley/CIKM2023DiRec)** and **[iLoRe](https://arxiv.org/abs/2309.02012)**.
+***[Dec 2023]*** 🎉 Check out our **comprehensive survey on Graph Prompt Learning**! [[Paper](https://arxiv.org/abs/2311.16534)]  [[Project](https://github.com/sheldonresearch/ProG)]  [[Repo](https://github.com/WxxShirley/Awesome-Graph-Prompt)]
 
 
 
